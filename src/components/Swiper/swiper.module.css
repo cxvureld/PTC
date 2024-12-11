@@ -1,0 +1,201 @@
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+
+  .def-btn {
+    background-color: #02007b;
+    color: #fff;
+    padding: 18px 40px;
+    margin-top: 10%; 
+    display: inline-block;
+    transition: background-color 0.35s ease;
+    border-radius: 16px;
+    font-size: 18px;
+  }
+
+  .def-btn:hover {
+    background: #04035c;
+  }
+
+  .certificate-container {
+    z-index: 301;
+    opacity: 1;
+    display: block;
+    justify-content: center;
+    top: 150.5px; 
+    left: 472.5px; 
+  }
+
+  .certificate-content {
+    flex-direction: column;
+    width: 85%;
+    display: flex;
+  }
+
+  .certificate {
+    width: 80%;
+    margin-left: 15%;
+  }
+
+  .close-modal-button {
+    font-variation-settings: "wght" 70;
+    letter-spacing: 0;
+    text-align: center;
+    vertical-align: top;
+    cursor: pointer;
+    color: #fff;
+    margin-left: 10%;
+    border-radius: 12px;
+    padding: 7px 8px 7px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    transform: scaleX(0.9);
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    background-color: #02007b;
+    border: 2px solid transparent;
+  }
+
+  .swiper_certificate__FaZJ3 {
+    margin: 0 auto;
+    justify-content: center;
+  }
+
+  .modal-form {
+    overflow: hidden;
+    background-color: #fff;
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 20px 40px 40px 20px;
+  }
+
+  .modal-form-img {
+    display: block;
+    width: 50%;
+  }
+
+  .modal-card-img-certificate {
+    width: 500px;
+  }
+
+  .banner-swiper .swiper-slide {
+    padding: 200px 0;
+    color: #fff;
+    text-align: center;
+  }
+
+  .banner-swiper .swiper-slide::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(35, 31, 31, 0.80);
+    z-index: -1;
+  }
+
+  .banner-content {
+    max-width: 750px;
+    margin: 0 auto;
+  }
+
+  .swiper-wrapper {
+    position: relative; 
+    width: 100%; 
+    height: 100%; 
+  }
+
+  .swiper-title {
+    position: absolute; 
+    font-size: 35px; 
+    font-weight: 500;
+    color: white;
+    transform: translate(-50%, -50%);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    top: 50%;
+    left: 50%;
+    text-align: center; 
+    padding: 0 10px; 
+    transition: font-size 0.3s ease; 
+  }
+
+  .swiper-img {
+    filter: brightness(80%);
+  }
+
+  .swiper-pagination-bullet {
+    width: 20px;
+  }
+
+  .swiper-title {
+    text-align: center; 
+    margin-top: 10px; 
+    padding: 0 15px; 
+    font-size: 2rem; 
+    transition: all 0.3s ease; 
+  }
+
+
+  @media (max-width: 768px) {
+    .swiper-title {
+        font-size: 24px; 
+        padding: 0 5px; 
+    }
+
+    .certificate-container {
+        top: 50px; 
+        left: 20px; 
+        width: 90%; 
+    }
+
+    .certificate-content {
+        width: 100%; 
+    }
+
+    .certificate {
+        width: 100%; 
+        margin-left: 0; 
+        margin-right: 0;
+    }
+
+    .close-modal-button {
+        font-size: 14px; 
+        padding: 5px 6px; 
+        margin-left: 0;  
+    }
+
+    .modal-form {
+        max-width: 90%; 
+        padding: 10px; 
+    }
+
+    .modal-form-img {
+        width: 100%; 
+    }
+
+    .modal-card-img-certificate {
+        width: 100%; 
+    }
+  }
+
+  @media (max-width: 480px) {
+    .swiper-title {
+        font-size: 20px; 
+        padding: 0 3px; 
+    }
+
+    .close-modal-button {
+        font-size: 12px;
+    }
+  }
+
+
+
