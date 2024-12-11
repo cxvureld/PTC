@@ -210,11 +210,22 @@
     transform: rotate(90deg);
   }
 
-  .modal-card {
-    width: 90%; 
-    max-width: 400px; 
-    margin: 0 auto; 
-  }
+  .modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+  
+
+
+.modal-card {
+  max-width: 90%; 
+  max-height: 80%; 
+  overflow-y: auto; 
+  margin: auto; 
+  padding: 30px; 
+}
   
   .modal-card-img {
     width: 100%; 
@@ -222,6 +233,11 @@
     margin: 0 auto;
   }
   
+  .close-modal-button {
+    padding: 10px 15px; 
+    font-size: 1em; 
+  }
+
   .modal-paragraph,
   .modal-title,
   .modal-text {
@@ -243,10 +259,12 @@
     margin: 20px 0; 
 }
 
-.responsive-table {
-    width: 100%; 
-    border-collapse: collapse; 
+.responsive-table { 
+  width: 100%; 
+  border-collapse: collapse; 
 }
+
+
 
 .responsive-table th, .responsive-table td {
     padding: 12px; 
@@ -267,7 +285,26 @@
     background-color: #e0e0e0; 
 }
 
-/* Адаптация для мобильных устройств */
+
+@media (max-width: 768px) {
+  .modal-card {
+      max-width: 95%;
+      padding: 10px;
+  }
+
+  .modal-title {
+      font-size: 1.5em;
+  }
+
+  .modal-text {
+      font-size: 0.9em;
+  }
+
+  .close-modal-button {
+      font-size: 0.8em;
+  }
+}
+
 @media (max-width: 600px) {
     .responsive-table th, .responsive-table td {
         padding: 8px; 
@@ -282,6 +319,7 @@
     }
 
     .responsive-table {
+      
         display: block; 
         overflow-x: auto; 
         white-space: nowrap; 

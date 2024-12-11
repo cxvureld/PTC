@@ -71,7 +71,7 @@ const Price = () => {
 
             <div className={Styles["table-container"]}>
 
-              <table className="responsive-table"  border="1">
+            <table className="responsive-table" border="1" width="80%">
                   <thead>
                       <tr>
                           <th>Конструктивные признаки</th>
@@ -197,7 +197,7 @@ const Price = () => {
 
                        <div className={Styles["table-container"]}>
 
-   <table className="responsive-table"  border="1">
+                       <table className="responsive-table" border="1" width="80%">
        <thead>
            <tr>
                <th>Конструктивные признаки</th>
@@ -337,7 +337,7 @@ const Price = () => {
 
              <div className={Styles["table-container"]}>
 
-       <table className="responsive-table"  border="1">
+             <table className="responsive-table" border="1" width="80%">
        <thead>
            <tr>
                <th>Конструктивные признаки</th>
@@ -479,7 +479,7 @@ const Price = () => {
                                                    работающих по винтовой характеристике.</p>
 
             <div className={Styles["table-container"]}>
-              <table className="responsive-table"  border="1">
+            <table className="responsive-table" border="1" width="80%">
        <thead>
            <tr>
                <th>Конструктивные признаки</th>
@@ -611,7 +611,7 @@ const Price = () => {
              <h1 className={Styles["modal-title"]}>Технические характеристики дизельного двигателя В-46  </h1>
         
                        <div className={Styles["table-container"]}>
-            <table className="responsive-table"  border="1">
+                       <table className="responsive-table" border="1" width="80%">
        <thead>
            <tr>
                <th>Показатель</th>
@@ -735,7 +735,7 @@ const Price = () => {
            <h1 className={Styles["modal-title"]}>Основные технические характеристики дизельного двигателя А-41  </h1>
         
                 <div className={Styles["table-container"]}>
-         <table className="responsive-table"  border="1">
+                <table className="responsive-table" border="1" width="80%">
        <thead>
            <tr>
                <td>Мощность номинальная, кВт/л.с.</td>
@@ -845,7 +845,7 @@ const Price = () => {
          <h1 className={Styles["modal-title"]}>Основные технические характеристики дизельного двигателя А-01  </h1>
         
                        <div className={Styles["table-container"]}>
-          <table className="responsive-table"  border="1">
+                       <table className="responsive-table" border="1" width="80%">
        <thead>
            <tr>
                <th>Наименование</th>
@@ -927,7 +927,7 @@ const Price = () => {
            <h1 className={Styles["modal-title"]}>Характеристики двигателей КАМАЗ 740.10.210 л.с. и 7403 260 л.с.  </h1>
         
                        <div className={Styles["table-container"]}>
-           <table className="responsive-table"  border="1">
+                       <table className="responsive-table" border="1" width="80%">
        <thead>
            <tr>
                <td>Модель двигателя</td>
