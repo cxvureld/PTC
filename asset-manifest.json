@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/PTC/static/css/main.c52974c7.css",
+    "main.js": "/PTC/static/js/main.5aff92e1.js",
+    "static/js/453.f2c042d2.chunk.js": "/PTC/static/js/453.f2c042d2.chunk.js",
+    "static/media/certificate.jpg": "/PTC/static/media/certificate.b56f417406f545eb0b13.jpg",
+    "static/media/a01.png": "/PTC/static/media/a01.e062a119c29c02a0ed13.png",
+    "static/media/ymz-238.png": "/PTC/static/media/ymz-238.b40aa5efcf1a7f1afaea.png",
+    "static/media/KAMAZ.png": "/PTC/static/media/KAMAZ.7c6a95da640eddc9f23c.png",
+    "static/media/a-41.png": "/PTC/static/media/a-41.47c3cb508c04f1b4e52d.png",
+    "static/media/price-pdf.pdf": "/PTC/static/media/price-pdf.862ab5be6d79c85cde02.pdf",
+    "static/media/banner-1.jpg": "/PTC/static/media/banner-1.0436b6d36e35453ebc6e.jpg",
+    "static/media/test.jpg": "/PTC/static/media/test.6d8539b1dbd9f2513b9f.jpg",
+    "static/media/banner-2.jpg": "/PTC/static/media/banner-2.2935313497323444a768.jpg",
+    "static/media/banner-3.jpg": "/PTC/static/media/banner-3.3138e58de39e44b4dfa6.jpg",
+    "static/media/a01-big.png": "/PTC/static/media/a01-big.1d848d32125540c520a6.png",
+    "static/media/b46-big.png": "/PTC/static/media/b46-big.7c44172686f0a474901b.png",
+    "static/media/a-41-big.png": "/PTC/static/media/a-41-big.13b78e511dc1f8ab43d2.png",
+    "static/media/ymz-236-big.png": "/PTC/static/media/ymz-236-big.423f4e2b29dbdd231b88.png",
+    "static/media/ymz-238-big.png": "/PTC/static/media/ymz-238-big.7b6721124311b46069b1.png",
+    "static/media/logo-footer.svg": "/PTC/static/media/logo-footer.a0b84913091ec5aa89d8f20e08500175.svg",
+    "static/media/KAMAZ-big.png": "/PTC/static/media/KAMAZ-big.b1dd087bf0a85b9ca8a4.png",
+    "static/media/ymz-240-big.png": "/PTC/static/media/ymz-240-big.8d6b4b0871d51a0522a0.png",
+    "static/media/D12.png": "/PTC/static/media/D12.48e41f757898b8e005c2.png",
+    "static/media/ymz-236.png": "/PTC/static/media/ymz-236.08e7ef2fbe6659883a44.png",
+    "static/media/ymz-240.png": "/PTC/static/media/ymz-240.1e5fc05d9ceaf94dda77.png",
+    "static/media/dd6.jpg": "/PTC/static/media/dd6.5746dd224a1bcafff14d.jpg",
+    "static/media/dd6-big.jpg": "/PTC/static/media/dd6-big.f753dcbb083708d6ca0a.jpg",
+    "static/media/logo.svg": "/PTC/static/media/logo.14f64a97ea4d075ef0401747fc0d18c0.svg",
+    "index.html": "/PTC/index.html",
+    "static/media/phone.svg": "/PTC/static/media/phone.08e0c103558e36a0bff7a467d61acb62.svg",
+    "static/media/location.svg": "/PTC/static/media/location.cc80608174b96e4e78899d2cd4ef5111.svg",
+    "main.c52974c7.css.map": "/PTC/static/css/main.c52974c7.css.map",
+    "main.5aff92e1.js.map": "/PTC/static/js/main.5aff92e1.js.map",
+    "453.f2c042d2.chunk.js.map": "/PTC/static/js/453.f2c042d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52974c7.css",
+    "static/js/main.5aff92e1.js"
+  ]
+}
