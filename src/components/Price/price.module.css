@@ -213,19 +213,16 @@
   .modal {
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;    
 }
   
-
-
-.modal-card {
-  max-width: 90%; 
-  max-height: 80%; 
-  overflow-y: auto; 
-  margin: auto; 
-  padding: 30px; 
-}
+  .modal-card {
+    max-width: 90%; 
+    max-height: 80%; 
+    overflow-y: auto; 
+    margin: auto; 
+    padding: 30px; 
+ }
   
   .modal-card-img {
     width: 100%; 
